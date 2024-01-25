@@ -1,9 +1,9 @@
 <template>
   <section class="blog">
     <div class="py-8 md:py-16 text-center">
-      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">Portfolio</h1>
+      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">My Portfolio</h1>
       <h2 class="text-base md:text-lg lg:text-xl xl:text-2xl">
-        My first Portfolio i ever mafe Hhhhh
+        My first portfolio i ever made, enjoy
       </h2>
     </div>
 
@@ -46,7 +46,7 @@ const Pagination = () => import('@/components/commons/pagination.vue');
 
   head(): MetaInfo {
     return {
-      title: 'Portfolio',
+      title: 'blog',
       meta: [
         {
           hid: 'description',
