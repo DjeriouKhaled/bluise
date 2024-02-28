@@ -1,7 +1,7 @@
 {
   "title": "Jirou Portfolio",
   "titleTemplate": "jirou",
-  "welcomeText": "<p><span style=\"font-family: 'DM Mono'; font-style: normal; font-weight: 600; font-size: 50px; line-height: 75px; display: flex; align-items: center; color: #FFFFFF;\">Hi, I'm </span><span style=\"font-family: 'DM Mono'; font-style: normal; font-weight: 600; font-size: 50px; line-height: 75px; display: flex; align-items: center; color: #5918DF;\">Jirou Khaled</span></p><p><span style=\"font-family: 'Roboto'; font-style: light; font-weight: 300; font-size: 32px; line-height: 47px; display: flex; align-items: center; color: #ECECEA;\">i design and develop things</span></p>",
+  "welcomeText": "<p><span style=\"font-family: 'verdana'; font-style: normal; font-weight: 600; font-size: 48px; line-height: 75px;color: #FFFFFF;\">Hi, I'm </span><span style=\"font-family: 'DM Mono'; font-style: normal; font-weight: 600; font-size: 48px; line-height: 75px;  color: #5918DF;\">Jirou Khaled</span></p><p><span style=\"font-family: 'courier'; font-style: normal; font-weight: 400; font-size: 36px; line-height: 47px; display: flex; align-items: center; color: #ECECEA;\">i design and develop things</span></p>",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
