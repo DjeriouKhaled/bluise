@@ -1,7 +1,7 @@
 {
   "title": "Jirou Portfolio",
   "titleTemplate": "jirou",
-  "welcomeText": "# Hi, I’m Khalid Jirou \n\n A **Fullstack developer** living in **Algeria** with a passion for creating innovative solutions.\n\n\n\n\n\n\n\n\nCONTACT ME",
+  "welcomeText": "<p style=\"font-family: 'Roboto'; font-style: normal; font-weight: 600; font-size: 64px; line-height: 75px; display: flex; align-items: center; color: #FFFFFF;\">Hi, my name is</p><p style=\"font-family: 'Roboto'; font-style: normal; font-weight: 600; font-size: 64px; line-height: 75px; display: flex; align-items: center; color: #5918DF;\">Jirou</p><p style=\"font-family: 'Roboto'; font-style: normal; font-weight: 600; font-size: 64px; line-height: 75px; display: flex; align-items: center; color: #5918DF;\">Khaled</p><p style=\"font-family: 'Roboto'; font-style: normal; font-weight: 500; font-size: 50px; line-height: 59px; display: flex; align-items: center; color: #ECECEA;\">i</p><p style=\"font-family: 'Noto Serif'; font-style: normal; font-weight: 500; font-size: 50px; line-height: 68px; display: flex; align-items: center; color: #ECECEA;\">design</p><p style=\"font-family: 'DM Mono'; font-style: normal; font-weight: 500; font-size: 50px; line-height: 65px; display: flex; align-items: center; color: #ECECEA;\">develop</p><p style=\"font-family: 'Roboto'; font-style: normal; font-weight: 500; font-size: 50px; line-height: 59px; display: flex; align-items: center; color: #ECECEA;\">and</p><p style=\"font-family: 'Roboto'; font-style: normal; font-weight: 500; font-size: 50px; line-height: 59px; display: flex; align-items: center; color: #ECECEA;\">things</p>",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
