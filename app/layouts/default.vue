@@ -39,6 +39,10 @@ export default class DefaultLayout extends Vue {}
 }
   body {
   background-color: #100e17;
+  background-image: url(/images/uploads/bgg.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   color: #ffffff;
 }
 </style>
