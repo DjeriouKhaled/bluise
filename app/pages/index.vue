@@ -28,7 +28,7 @@
               class="flex-shrink-0 bg-blue-500 hover:bg-blue-700 border-blue-500 hover:border-blue-700 text-sm border-4 text-white py-1 px-2 rounded"
               type="submit"
             >
-              Sign Up
+              Send
             </button>
           </form>
         </div>
@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://i.ibb.co/Czh97ry/20230307-221920.jpg"
+          src="https://i.ibb.co/PFpszY7/mee.png"
         />
       </div>
     </div>
