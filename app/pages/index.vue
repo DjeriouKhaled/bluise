@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://i.ibb.co/PFpszY7/mee.png"
+          src="/images/uploads/io.png"
         />
       </div>
     </div>
