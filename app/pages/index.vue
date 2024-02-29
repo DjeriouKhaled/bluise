@@ -5,6 +5,13 @@
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
         <div class="mb-12 xl:mb-0">
+        <h2>Contact Me</h2>
+        <ul>
+          <li><strong>Email:</strong> <a href="mailto:khaledjr2018@gmail.com">khaledjr2018@gmail.com</a></li>
+          <li><strong>Telegram:</strong> <a href="https://t.me/jirou_fujimi">https://t.me/jirou_fujimi</a></li>
+        </ul>
+      </div>
+        <div class="mb-12 xl:mb-0">
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
 
           <form
