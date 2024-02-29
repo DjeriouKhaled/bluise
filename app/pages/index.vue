@@ -4,12 +4,10 @@
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
-        <div class="mb-12 xl:mb-0" style="padding-bottom: 20px;">
+        <div class="mb-12 xl:mb-0" style="padding-bottom: 20px; font-family: 'Roboto Condensed'; font-style: normal;font-weight: 500;
+line-height: 54px;">
         <h2>Contact Me</h2>
-        <ul>
-          <li><strong>Email:</strong> <a href="mailto:khaledjr2018@gmail.com">khaledjr2018@gmail.com</a></li>
-          <li><strong>Telegram:</strong> <a href="https://t.me/jirou_fujimi">https://t.me/jirou_fujimi</a></li>
-        </ul>
+        <a href="mailto:khaledjr2018@gmail.com">khaledjr2018@gmail.com</a>
       </div>
         <div class="mb-12 xl:mb-0">
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
