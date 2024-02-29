@@ -4,7 +4,7 @@
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
-         <div class="contact-me" style="background-color: #f9f9f9; border: 1px solid #ddd; padding: 20px; border-radius: 5px; width: 300px; margin: 0 auto;">
+         <div class="mb-12 xl:mb-0" >
         <h2>Contact Me</h2>
         <ul>
             <li><strong>Email:</strong> <a href="mailto:khaledjr2018@gmail.com">khaledjr2018@gmail.com</a></li>
